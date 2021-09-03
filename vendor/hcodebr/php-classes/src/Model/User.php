@@ -233,7 +233,6 @@ class User extends Model {
             "password"=>$password,
             "iduser"=>$this->getiduser()
         ));
-
     }
 }
 
